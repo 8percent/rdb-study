@@ -18,9 +18,6 @@
       <img src="https://avatars.githubusercontent.com/u/23370765?v=4" width="100px;" alt=""/><br /><sub><b>김민기</b></sub>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/23370765?v=4" width="100px;" alt=""/><br /><sub><b>김민기</b></sub>
-    </td>
-    <td align="center">
       <img src="https://avatars.githubusercontent.com/u/10475287?v=4" width="100px;" alt=""/><br /><sub><b>천명욱</b></sub>
     </td>
     <td align="center">
