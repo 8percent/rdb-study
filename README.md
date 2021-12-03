@@ -26,11 +26,15 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>김진영</b></sub>
+      <img src="https://avatars.githubusercontent.com/u/60743304?v=4" width="100px;" alt=""/><br /><sub><b>김진영</b></sub>
     </td>    
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/13350111?v=4" width="100px;" alt=""/><br /><sub><b>김택천</b></sub>
     </td> 
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt=""/><br /><sub><b>이경준</b></sub>
+    </td> 
+  
   </tr>
 </table>
 
