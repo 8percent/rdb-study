@@ -11,6 +11,9 @@
         <img src="https://avatars2.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>이호성</b></sub>
       </a>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/52901188?v=4" width="100px;" alt=""/><br /><sub><b>김동현</b></sub>
+    </td>
   </tr>
 </table>
 
