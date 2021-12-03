@@ -14,6 +14,26 @@
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/52901188?v=4" width="100px;" alt=""/><br /><sub><b>김동현</b></sub>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/23370765?v=4" width="100px;" alt=""/><br /><sub><b>김민기</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/23370765?v=4" width="100px;" alt=""/><br /><sub><b>김민기</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/10475287?v=4" width="100px;" alt=""/><br /><sub><b>천명욱</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/29652381?v=4" width="100px;" alt=""/><br /><sub><b>제갈윤</b></sub>
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>김진영</b></sub>
+    </td>    
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/13350111?v=4" width="100px;" alt=""/><br /><sub><b>김택천</b></sub>
+    </td> 
   </tr>
 </table>
 
