@@ -33,6 +33,9 @@
     </td> 
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt=""/><br /><sub><b>이경준</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/78336242?&v=4" width="100px;" alt=""/><br /><sub><b>이우주</b></sub>
     </td> 
   
   </tr>
