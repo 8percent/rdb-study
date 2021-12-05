@@ -1,24 +1,46 @@
 # rdb-study
-8퍼센트 스터디 - 파워 오브 데이터베이스
 
-## 일정
-### 1주차(12-02)
-- 깃허브 리포지토리 개설
-- 진행방향 논의
-  - 매주 3장씩 읽어오고 연습문제 풀이를 공유하자.
-  - 논의하고 싶은 내용을 [Discussions]에서 공유하자.
-- 적극적 책읽기
-  - 목차를 읽으며 무슨내용일까? 돌아가며 낭독해보았다.
-- 각오 다짐
-  - 스터디를 통해 얻어가고 싶은 내용을 공유해보았다.
-### 2주차(12-09)
+8퍼센트에 진행하는 [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589) 스터디 입니다. 
 
-### 3주차(12-16)
+# 멤버 
 
-### 4주차(12-23)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://blog.novice.io/">
+        <img src="https://avatars2.githubusercontent.com/u/2469766?v=4" width="100px;" alt=""/><br /><sub><b>이호성</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/52901188?v=4" width="100px;" alt=""/><br /><sub><b>김동현</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/23370765?v=4" width="100px;" alt=""/><br /><sub><b>김민기</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/10475287?v=4" width="100px;" alt=""/><br /><sub><b>천명욱</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/29652381?v=4" width="100px;" alt=""/><br /><sub><b>제갈윤</b></sub>
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/60743304?v=4" width="100px;" alt=""/><br /><sub><b>김진영</b></sub>
+    </td>    
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/13350111?v=4" width="100px;" alt=""/><br /><sub><b>김택천</b></sub>
+    </td> 
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/45473846?v=4" width="100px;" alt=""/><br /><sub><b>이경준</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/78336242?&v=4" width="100px;" alt=""/><br /><sub><b>이우주</b></sub>
+    </td> 
+  
+  </tr>
+</table>
 
-### 5주차(12-30)
+# 스터디 진행 관련 
 
-### 6주차(01-06)
-
-### 7주차(01-13)
+[Wiki](../../wiki)를 참고해 주세요. 
