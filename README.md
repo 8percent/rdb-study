@@ -2,6 +2,8 @@
 
 8퍼센트에 진행하는 [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589) 스터디 입니다. 
 
+https://github.com/8percent/rdb-study/blob/0639ad945a9178f6d7d43cdc3d6d528a7796d2bb/images/week5_1.jpg
+
 # 멤버 
 
 <table>
